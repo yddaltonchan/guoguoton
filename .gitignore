@@ -1,3 +1,6 @@
-*
-!*/
-!*.*ml
+.DS_Store
+Thumbs.db
+
+node_modules/
+.vscode
+gh-pages/
